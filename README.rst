@@ -3,6 +3,8 @@ pip-pop
 
 .. image:: https://travis-ci.org/chaolinyi/pip-pop.svg?branch=master
     :target: https://travis-ci.org/chaolinyi/pip-pop
+.. image:: https://img.shields.io/coverity/scan/16136.svg
+    :target: https://scan.coverity.com/projects/chaolinyi-pip-pop
 
 Working with lots of ``requirements.txt`` files can be a bit annoying.
 Have no fear, **pip-pop** is here!
